@@ -24,7 +24,7 @@
 </p></h2>
 <!--💻Big SVG Coding-->
   <a href="https://github.com/Somilgupta07">
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230"></a>
+<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="210"></a>
 
 <!--💫 About Me-->
 
